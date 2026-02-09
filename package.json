@@ -1,0 +1,12 @@
+{
+  "name": "cross-chain-bridge-core",
+  "version": "1.0.0",
+  "description": "Lock-and-mint bridge smart contracts",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  },
+  "devDependencies": {
+    "ethers": "^6.10.0",
+    "hardhat": "^2.19.0"
+  }
+}
